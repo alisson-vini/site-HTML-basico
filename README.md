@@ -1,34 +1,34 @@
-# História da Apple - Site "A Fonte"
+# Apple History - "A Fonte" Website
 
-![Preview do Site](imagens/previa_site.png)
+![Site Preview](imagens/previa_site.png)
 
-Um site informativo sobre a história da Apple Inc., desde sua fundação até os dias atuais.
+An informative website about the history of Apple Inc., from its founding to the present day.
 
-## 📌 Sobre o Projeto
+## 📌 About the Project
 
-Este projeto é uma página web responsiva que conta a trajetória da Apple, destacando seus principais produtos e marcos históricos. O site foi desenvolvido com:
+This project is a responsive web page that tells the story of Apple, highlighting its main products and historical milestones. The site was developed using:
 
-- HTML5 semântico
-- CSS3 moderno
-- Design limpo e elegante
+- Semantic HTML5
+- Modern CSS3
+- Clean and elegant design
 
-## ✨ Recursos
+## ✨ Features
 
-- Cabeçalho com menu de navegação
-- Conteúdo organizado em seções
-- Lista cronológica dos principais lançamentos
-- Rodapé com informação de atualização
-- Design responsivo
+- Header with navigation menu
+- Content organized into sections
+- Chronological list of key product launches
+- Footer with update information
+- Responsive design
 
-## 🛠 Tecnologias Utilizadas
+## 🛠 Technologies Used
 
-- **HTML5** - Estrutura do conteúdo
-- **CSS3** - Estilização e layout
-- **Google Fonts** - Tipografia (Roboto e Times New Roman)
-- **GitHub Pages** - Hospedagem (opcional)
+- **HTML5** – Content structure
+- **CSS3** – Styling and layout
+- **Google Fonts** – Typography (Roboto and Times New Roman)
+- **GitHub Pages** – Hosting (optional)
 
-## 🚀 Como Visualizar
+## 🚀 How to View
 
-1. Clone este repositório:
+1. Clone this repository:
    ```bash
-   git clone https://github.com/seu-usuario/historia-apple.git
+   git clone https://github.com/your-username/apple-history.git
