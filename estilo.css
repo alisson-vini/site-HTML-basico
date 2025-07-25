@@ -1,33 +1,10 @@
-header{
+/* cabeçario e menus */
+
+header{ /* cabeçario */
     background-color: rgb(0, 0, 0);
     height: auto;
     width: 100%;
     padding: 1px 0px 10px 0px;
-}
-
-nav{
-    text-align: right;
-}
-
-main{
-    height: auto;
-    width: 70em;
-    margin: 0 auto;
-}
-
-.links_menu{
-    font-family: Arial, Helvetica, sans-serif;
-    color: 	#F2F2F2;
-    text-decoration: none;
-    margin: 5px;
-    padding: 5px;
-}
-
-
-.links_menu:hover{
-    background-color: #F2F2F2;
-    color: rgb(0, 0, 0);
-    border-radius: 12px;
 }
 
 h1#titulo_cabecario{
@@ -37,13 +14,46 @@ h1#titulo_cabecario{
     font-size: 3.2em;
 }
 
+nav{ /* links do menu */
+    text-align: right;
+}
+
+.links_menu{
+    font-family: Arial, Helvetica, sans-serif;
+    color: 	#F2F2F2;
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
+    box-shadow: 1.5px 1.5px 10px 0px rgba(255, 255, 255, 0.25);
+    border-radius: 12px;
+}
+
+.links_menu:hover{
+    background-color: #F2F2F2;
+    color: rgb(0, 0, 0);
+    border-radius: 12px;
+}
+
+/* Corpo principal do site */
+
+body{
+    margin: 0;
+}
+
+
+main{
+    height: auto;
+    width: 1200px;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+}
+
 article{
     padding-top: 50px;
 }
 
 .paragrafo_text{
     font-size: 18px;
-    font-family: 'Times New Roman', Times, serif;
     text-align: justify;
 }
 
@@ -51,6 +61,8 @@ article{
     margin-top: 3px;
 }
 
+
+/* Rodapé */
 footer{
     background-color: black;
     text-align: center;
