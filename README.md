@@ -31,4 +31,4 @@ This project is a responsive web page that tells the story of Apple, highlightin
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/apple-history.git
+   git clone https://github.com/alisson-vini/site-HTML-basico
